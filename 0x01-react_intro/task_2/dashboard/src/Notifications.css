@@ -1,0 +1,12 @@
+.Notifications {
+    border: 3px solid var(--holberton_school-red);
+    padding: 10px 10px;
+}
+
+li[data-priority= "default"] {
+    color:blue;
+}
+
+li[data-priority= "urgent"] {
+    color: var(--holberton_school-red);
+}

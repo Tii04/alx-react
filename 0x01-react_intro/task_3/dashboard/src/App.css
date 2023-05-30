@@ -1,0 +1,46 @@
+body {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+div {
+  padding: 2px 8px;
+}
+
+.App {
+  position: relative;
+  min-height: 100vh;
+}
+
+.App-header img {
+  width: 200px;
+  height: 200px;
+}
+
+.App-header h1{
+  margin: auto auto auto 0;
+  color: var(--holberton_school-red);
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-bottom: 3px solid var(--holberton_school-red);
+}
+
+.App-body p{
+  margin: 48px 0 0 32px;
+}
+
+.App-footer {
+  position: absolute;
+  text-align: center;
+  font-style: italic;
+  bottom: 0;
+  width: 100%;
+}
+
+:root {
+  --holberton_school-red: #e1484c;
+}

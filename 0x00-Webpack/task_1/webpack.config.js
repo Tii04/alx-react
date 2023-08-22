@@ -10,9 +10,4 @@ module.exports = {
 
     mode: 'production',
 
-    plugins: [
-        new HtmlWebpackPlugin({
-          title: "Webpack Output",
-        }),
-      ],
 };

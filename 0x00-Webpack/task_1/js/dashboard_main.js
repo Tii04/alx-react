@@ -11,7 +11,6 @@ let clicked = 0;
 
 function updateCounter() {
     clicked += 1;
-
     $('#count').text(`${count} clicks on the button`);
 }
 

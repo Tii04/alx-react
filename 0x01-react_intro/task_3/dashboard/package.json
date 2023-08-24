@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Tii04/alx-react",
+  "homepage": "https://Tii04.github.io/alx-react",
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
@@ -48,5 +48,5 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC" 
 }
